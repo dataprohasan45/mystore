@@ -1,0 +1,8 @@
+{
+  "name": "My Store Site",
+  "description": "My Store Site - ই-কমার্স, প্রোডাক্ট ক্যাটালগ, এরিয়া-ভিত্তিক প্রচারণা ও অ্যাডমিন ম্যানেজমেন্ট পোর্টাল।",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
